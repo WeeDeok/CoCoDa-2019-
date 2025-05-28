@@ -11,7 +11,7 @@
 <script type="text/javascript"
 	src="<c:url value="/resources/js/jquery-3.3.1.min.js"/>"></script>
 <script type="text/javascript"
-	src="//dapi.kakao.com/v2/maps/sdk.js?appkey=ddea40514a36c7dd14200b5ab87a04ba&libraries=services"></script>
+	src="//dapi.kakao.com/v2/maps/sdk.js?appkey=''&libraries=services"></script>
 
 <!-- Materialize -->
 <script type="text/javascript"
