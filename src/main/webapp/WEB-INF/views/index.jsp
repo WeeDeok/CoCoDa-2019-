@@ -195,7 +195,7 @@
 			      return false;
 			   	}
 			   
-			   	var ServiceKey = 'zKK27PBQtqWr3tAKG4CG%2BSptcIqgwenD5aPNx2da%2Ff3b2KpFEbfDS0hNlFOpZIuKvdSRTf5V%2B1v4GSCw8X1qiw%3D%3D';
+			   	var ServiceKey = '';
 			   	var radius = 500;
 			   
 			   	var url = 'http://apis.data.go.kr/B553077/api/open/sdsc/storeZoneInRadius?radius='
