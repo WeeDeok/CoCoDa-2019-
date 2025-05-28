@@ -31,7 +31,7 @@
   <script src="<c:url value = "/resources/page/plugins/nprogress/nprogress.js"/>"></script>
   
 <script src="<c:url value="/resources/js/jquery-3.3.1.min.js"/>"></script>
-<script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=ddea40514a36c7dd14200b5ab87a04ba&libraries=services"></script>
+<script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=''&libraries=services"></script>
 <script src="<c:url value = "/resources/page/plugins/jquery/jquery.min.js"/>"></script>
 <script src="<c:url value = "/resources/page/plugins/bootstrap/js/bootstrap.bundle.min.js"/>"></script>
 <script src="<c:url value = "/resources/page/plugins/toaster/toastr.min.js"/>"></script>
